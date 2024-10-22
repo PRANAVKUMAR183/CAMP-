@@ -13,5 +13,5 @@ Mkt-RF Coefficient: 1.179, implying a positive relationship between market exces
 Constant: 0.0383, though not statistically significant (p-value = 0.200).
 
 Durbin-Watson: 1.879, suggesting low autocorrelation in residuals.
-![](9F823EEF-D08D-42DE-830B-7C96469FC1A9.jpeg)
+![](CAPM.jpeg)
 
