@@ -13,5 +13,5 @@ Mkt-RF Coefficient: 1.179, implying a positive relationship between market exces
 Constant: 0.0383, though not statistically significant (p-value = 0.200).
 
 1.879, suggesting low autocorrelation in residuals.
-![](CAPM.jpeg)
+![](CAMP.jpeg)
 
