@@ -1,4 +1,4 @@
-# CAMP-
+# CAPM-
 
 ### [CAPM](https://github.com/PRANAVKUMAR183/CAPM) (Link to project)
 
